@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fascinate+Inline&display=swap');
+
+.titulo{
+    margin-top: -1vh;
+    color:white;
+    background: #042c51;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Fascinate Inline', cursive;
+}

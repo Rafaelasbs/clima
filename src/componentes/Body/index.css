@@ -1,0 +1,42 @@
+*{
+    background-color: #042c51;
+}
+
+input, button{
+    background-color: white;
+}
+
+.box{
+    display: flex;
+    
+}
+
+p{
+    color:#678094;
+    flex-direction:row;
+    width: 300px;
+    height: 150px;
+    background: white;
+    color: #678094;
+    padding: 20px;
+
+}
+
+.temp{
+    color:#678094;
+    flex-direction:row;
+    width: 300px;
+    height: 150px;
+    background: white;
+    color: #678094;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.min{
+
+}
+
+.max{
+
+}
